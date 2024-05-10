@@ -5,7 +5,6 @@ def calcular_area_circulo(radio):
     area = math.pi * radio ** 2
     return area
 
-# Llama a la función calcular_area_circulo con diferentes valores de radio
 radio1 = 5
 radio2 = 10
 radio3 = 2.5
